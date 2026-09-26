@@ -1,0 +1,5 @@
+Commit message: feat: add homepage hero banner
+
+Copy/overwrite this snapshot into your project root, then run:
+  git add -A
+  git commit -m "feat: add homepage hero banner"

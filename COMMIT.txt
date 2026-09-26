@@ -1,5 +1,5 @@
-Commit message: feat: add my plan page and plan card
+Commit message: feat: add workout details page
 
 Copy/overwrite this snapshot into your project root, then run:
   git add -A
-  git commit -m "feat: add my plan page and plan card"
+  git commit -m "feat: add workout details page"

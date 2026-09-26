@@ -1,5 +1,5 @@
-Commit message: feat: add app loading and not found pages
+Commit message: chore: finalize FitLog app documentation
 
 Copy/overwrite this snapshot into your project root, then run:
   git add -A
-  git commit -m "feat: add app loading and not found pages"
+  git commit -m "chore: finalize FitLog app documentation"

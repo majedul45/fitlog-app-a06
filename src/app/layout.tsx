@@ -5,7 +5,6 @@ import Footer from "./components/shared/Footer";
 import FitlogProvider from "./context/FitlogContext";
 import ToastProvider from "./components/shared/ToastProvider";
 
-import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "FitLog — Workout Library",

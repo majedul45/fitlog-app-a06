@@ -1,5 +1,5 @@
-Commit message: feat: add workout card component
+Commit message: feat: add searchable workout library
 
 Copy/overwrite this snapshot into your project root, then run:
   git add -A
-  git commit -m "feat: add workout card component"
+  git commit -m "feat: add searchable workout library"

@@ -1,5 +1,5 @@
-Commit message: feat: add searchable workout library
+Commit message: feat: assemble homepage sections
 
 Copy/overwrite this snapshot into your project root, then run:
   git add -A
-  git commit -m "feat: add searchable workout library"
+  git commit -m "feat: assemble homepage sections"

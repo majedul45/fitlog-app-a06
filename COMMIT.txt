@@ -1,5 +1,5 @@
-Commit message: feat: add workout details page
+Commit message: feat: add app loading and not found pages
 
 Copy/overwrite this snapshot into your project root, then run:
   git add -A
-  git commit -m "feat: add workout details page"
+  git commit -m "feat: add app loading and not found pages"

@@ -1,5 +1,5 @@
-Commit message: feat: assemble homepage sections
+Commit message: feat: add my plan page and plan card
 
 Copy/overwrite this snapshot into your project root, then run:
   git add -A
-  git commit -m "feat: assemble homepage sections"
+  git commit -m "feat: add my plan page and plan card"
